@@ -1,3 +1,7 @@
-import Input from "./Input";
+import { InputField, TextAreaField } from "./Input";
+import { ServicesCheckbox } from "./serviceCheckbox";
 
-export default Input;
+export {InputField, TextAreaField};
+export { ServicesCheckbox};
+
+
